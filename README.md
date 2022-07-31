@@ -24,4 +24,3 @@ public class Main
   }
 
 }
-![image](https://user-images.githubusercontent.com/101725933/182032214-565f1903-5ff1-45fc-b1cf-dc39ac296203.png)
